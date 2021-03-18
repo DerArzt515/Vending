@@ -4,6 +4,14 @@
 - Java version 11
 - Maven 3
 
+# Pre-reqs for this project:
+##  Have git installed
+  - If using windows see here: [link](https://git-scm.com/download/win) (be sure to download the 64 bit version)
+## Have IntelliJ installed see here: [link](https://www.jetbrains.com/idea/download/#section=windows) (community edition should be more than enough)
+  - Note that this will most likely also install a JDK for you, if so you may be able to skip the next item.
+## Have JDK 11 installed see here: [link](https://www.oracle.com/java/technologies/javase-downloads.html)
+  - Go to the Java SE 11 (LTS) section and download the jdk for that
+
 # Goals of this project
 The goals for this project are as follows:
 - Demonstrate an understanding of Object-Oriented Programming via Java
